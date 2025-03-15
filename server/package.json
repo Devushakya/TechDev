@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
-    "build":" npm install && cd TechED && npx update-browserslist-db@latest && npm install && npm run build "
+    "build":" cd server && npm install && cd TechED && npx update-browserslist-db@latest && npm install && npm run build "
   },
   "keywords": [],
   "author": "",
