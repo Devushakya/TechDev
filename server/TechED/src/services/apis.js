@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:4000/api/v1";
+const BASE_URL = "https://tech-dev-server.vercel.app/";
 
 // AUTH ENDPOINTS
 export const endpoints = {
