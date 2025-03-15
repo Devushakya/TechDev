@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
-    "build":"cd SERVER && npm install && cd TechED && npm install && npm run build "
+    "build":"cd server && npm install && cd TechED && npm install && npm run build "
   },
   "keywords": [],
   "author": "",
