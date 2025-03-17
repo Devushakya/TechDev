@@ -2,6 +2,8 @@
 
 TechDev is a full-fledged online course-selling platform built with the **MERN (MongoDB, Express.js, React.js, Node.js) stack**. It provides separate user roles for **students, instructors, and admins**, each with unique functionalities. Users can **buy and sell courses**, watch **lecture videos**, manage payments via **Razorpay integration**, and perform various other tasks.
 
+Deployment Link =https://techdev-online-course-selling-website-1.onrender.com
+
 
 ## Features
 
